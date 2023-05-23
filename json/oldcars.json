@@ -1,0 +1,64 @@
+{
+  "carData": [
+    {
+      "id": "OC01",
+      "fullName": "Restored and Well Optioned 1970 Plymouth Hemi Cuda Hardtop",
+      "description": "fuck",
+      "currentBid": "$3500",
+      "endDate": "06-23-2023",
+      "endYet?": false,
+      "finalBid": null,
+      "img": ["./images/cars/OC01-1.jpg", "../images/OC01-2.jpg"]
+    },
+    {
+      "id": "OC02",
+      "fullName": "Restored and Well Optioned 1970 Plymouth Hemi Cuda Hardtop",
+      "description": "fuck",
+      "currentBid": "$3500",
+      "endDate": "06-23-2023",
+      "endYet?": false,
+      "finalBid": null,
+      "img": ["./images/cars/OC01-2.jpg", "../images/OC01-2.jpg"]
+    },
+    {
+      "id": "OC03",
+      "fullName": "Restored and Well Optioned 1970 Plymouth Hemi Cuda Hardtop",
+      "description": "fuck",
+      "currentBid": "$3500",
+      "endDate": "06-23-2023",
+      "endYet?": false,
+      "finalBid": null,
+      "img": ["./images/cars/OC01-1.jpg", "../images/OC01-2.jpg"]
+    },
+    {
+      "id": "OC04",
+      "fullName": "Restored and Well Optioned 1970 Plymouth Hemi Cuda Hardtop",
+      "description": "fuck",
+      "currentBid": "$3500",
+      "endDate": "06-23-2023",
+      "endYet?": false,
+      "finalBid": null,
+      "img": ["../images/cars/OC01-2.jpg", "../images/OC01-2.jpg"]
+    },
+    {
+      "id": "OC05",
+      "fullName": "Restored and Well Optioned 1970 Plymouth Hemi Cuda Hardtop",
+      "description": "fuck",
+      "currentBid": "$3500",
+      "endDate": "06-23-2023",
+      "endYet?": false,
+      "finalBid": null,
+      "img": ["./images/cars/OC01-1.jpg", "../images/OC01-2.jpg"]
+    },
+    {
+      "id": "OC06",
+      "fullName": "Restored and Well Optioned 1970 Plymouth Hemi Cuda Hardtop",
+      "description": "fuck",
+      "currentBid": "$3500",
+      "endDate": "06-23-2023",
+      "endYet?": false,
+      "finalBid": null,
+      "img": ["./images/cars/OC01-1.jpg", "../images/OC01-2.jpg"]
+    }
+  ]
+}
